@@ -70,4 +70,3 @@ if (isNaN(voto)){
 } else {
     console.log("No podes votar")
 }
-
