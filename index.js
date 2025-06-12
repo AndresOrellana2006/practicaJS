@@ -55,7 +55,7 @@ console.log("El resultado de la resta es: " +resta)
 */
 
 let multi1 = 3
-let multi2 = 4
+let multi2 = 10
 console.log(multi1 * multi2)
 
 const num1 = 5
