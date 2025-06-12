@@ -54,6 +54,10 @@ const resta = 5 - 2
 console.log("El resultado de la resta es: " +resta)
 */
 
+const num1 = 5
+const num2 = 2
+const suma = num1 + num2
+console.log(suma)
 
 const voto = parseInt(prompt("Ingresee su edad"))
 if (isNaN(voto)){
